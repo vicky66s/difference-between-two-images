@@ -9,7 +9,7 @@ int main() {
     string image1_path = "image1.jpg";
     string image2_path = "image2.jpg";
 
-    // Read the images
+    // Read the images625
     Mat image1 = imread(image1_path);
     Mat image2 = imread(image2_path);
 
