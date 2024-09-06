@@ -5,7 +5,7 @@ using namespace cv;
 using namespace std;
 
 int main() {
-    // File paths for the images.325
+    // File paths for the images.32500000000000000000
     string image1_path = "image1.jpg";
     string image2_path = "image2.jpg";
 
