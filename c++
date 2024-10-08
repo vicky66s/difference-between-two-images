@@ -1,3 +1,4 @@
+// 32500000000000000000
 #include <opencv2/opencv.hpp>
 #include <iostream>
 
@@ -5,7 +6,7 @@ using namespace cv;
 using namespace std;
 
 int main() {
-    // File paths for the images.32500000000000000000
+    // File paths for the images.
     string image1_path = "image1.jpg";
     string image2_path = "image2.jpg";
 
