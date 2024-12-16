@@ -1,4 +1,4 @@
-// 0000000
+// 0
 #include <opencv2/opencv.hpp>
 #include <iostream>
 
